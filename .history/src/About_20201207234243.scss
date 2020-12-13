@@ -1,0 +1,78 @@
+.about {
+  height: 150vh;
+  width: 100%;
+  background: white;
+}
+.heading {
+  display: flex;
+  flex-direction: column;
+  font-weight: 900;
+  font-size: 23px;
+  text-transform: uppercase;
+  margin-top: 100px;
+  text-align: center;
+  position: relative;
+  object-fit: contain;
+}
+.icon{
+  font-size: 100px;
+  // margin-bottom: 100px;
+}
+.head::after {
+  content: "";
+  position: absolute;
+  top: 42px;
+  left:46% ;
+  // right: 50%;
+
+  width: 8%;
+  // height: 50px;
+  border-bottom: 3px solid #333;
+}
+.description {
+  display: i;
+  flex-direction: row;
+  margin-bottom: 20px;
+  margin-top: 200px;
+  justify-content: space-between;
+  margin-left: 20px;
+}
+.fast{
+  display: flex;
+  flex-direction: column;
+  // bottom: 100px;
+}
+.section {
+  display: flex;
+  flex-direction: row;
+}
+.profile {
+  width: 40%;
+  & p {
+    flex-wrap: wrap;
+    margin-top: 10px;
+    margin-left: 20px;
+  }
+  & h1 {
+    color: rgb(151, 148, 148);
+    margin-left: 100px;
+    margin-top: 10px;
+    font-weight: 600;
+  }
+  & img {
+    // border-radius: 50%;
+    height: 300px;
+    margin-top: 50px;
+    margin-left: 90px;
+    position: relative;
+    border-radius: 10px;
+  }
+}
+.progress {
+  width: 60%;
+}
+.bar {
+  display: flex;
+  flex-direction: column;
+  margin-top: 40px;
+}

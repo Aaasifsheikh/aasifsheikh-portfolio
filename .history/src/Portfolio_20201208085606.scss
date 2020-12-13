@@ -1,0 +1,21 @@
+.portfolio {
+  height: 100vh;
+  width: 100%;
+  background: rgb(248, 247, 247);
+}
+.projects ul {
+  margin-top: 30px;
+
+& li {
+  display: inline;
+  padding-left: 50px;
+}
+
+  & a {
+    border: 1px solid black;
+    justify-content: center;
+    padding: 10px;
+    text-decoration: none;
+    text-transform: capitalize;
+  }
+}

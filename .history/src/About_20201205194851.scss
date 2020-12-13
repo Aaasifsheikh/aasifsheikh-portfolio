@@ -1,0 +1,56 @@
+.about {
+  height: 150vh;
+  width: 100%;
+  background: white;
+}
+.heading {
+  font-weight: 900;
+  font-size: 23px;
+  text-transform: uppercase;
+  margin-top: 100px;
+  text-align: center;
+
+  position: relative;
+  // border-bottom-
+  // width: 50px;
+}
+.heading h1 {
+  border-bottom: 5px solid #000;
+  // position: absolute;
+}
+.description {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 20px;
+  margin-top: 200px;
+  justify-content: space-between;
+  margin-left: 20px;
+}
+.section {
+  display: flex;
+  flex-direction: row;
+}
+.profile {
+  width: 40%;
+  & p {
+    flex-wrap: wrap;
+  }
+  & h1{
+      color: rgb(151, 148, 148);
+      -left: 40px;
+  }
+  & img {
+    border-radius: 50%;
+    height: 300px;
+    margin-top: 50px;
+    margin-left: 90px;
+  }
+}
+.progress {
+  width: 60%;
+}
+.bar {
+  display: flex;
+  flex-direction: column;
+  margin-top: 40px;
+}

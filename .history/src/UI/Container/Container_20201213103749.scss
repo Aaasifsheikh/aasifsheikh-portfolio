@@ -1,0 +1,14 @@
+.container {
+  max-width: 1230px;
+  margin: 0 auto;
+  object-position: ;
+}
+
+// Mobile View
+
+@media (max-width: 768px) {
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+}
