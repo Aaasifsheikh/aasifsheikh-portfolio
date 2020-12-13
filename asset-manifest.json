@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/aasifsheikh-portfolio/static/css/main.394ec4b5.chunk.css",
+    "main.js": "/aasifsheikh-portfolio/static/js/main.ee2b0647.chunk.js",
+    "main.js.map": "/aasifsheikh-portfolio/static/js/main.ee2b0647.chunk.js.map",
+    "runtime-main.js": "/aasifsheikh-portfolio/static/js/runtime-main.278ace01.js",
+    "runtime-main.js.map": "/aasifsheikh-portfolio/static/js/runtime-main.278ace01.js.map",
+    "static/css/2.ec02d681.chunk.css": "/aasifsheikh-portfolio/static/css/2.ec02d681.chunk.css",
+    "static/js/2.5f69bdd9.chunk.js": "/aasifsheikh-portfolio/static/js/2.5f69bdd9.chunk.js",
+    "static/js/2.5f69bdd9.chunk.js.map": "/aasifsheikh-portfolio/static/js/2.5f69bdd9.chunk.js.map",
+    "index.html": "/aasifsheikh-portfolio/index.html",
+    "static/css/2.ec02d681.chunk.css.map": "/aasifsheikh-portfolio/static/css/2.ec02d681.chunk.css.map",
+    "static/css/main.394ec4b5.chunk.css.map": "/aasifsheikh-portfolio/static/css/main.394ec4b5.chunk.css.map",
+    "static/js/2.5f69bdd9.chunk.js.LICENSE.txt": "/aasifsheikh-portfolio/static/js/2.5f69bdd9.chunk.js.LICENSE.txt",
+    "static/media/Aasif.jpg.8b75f7a8.jpg": "/aasifsheikh-portfolio/static/media/Aasif.jpg.8b75f7a8.jpg",
+    "static/media/twitter.ff62ba9f.png": "/aasifsheikh-portfolio/static/media/twitter.ff62ba9f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.278ace01.js",
+    "static/css/2.ec02d681.chunk.css",
+    "static/js/2.5f69bdd9.chunk.js",
+    "static/css/main.394ec4b5.chunk.css",
+    "static/js/main.ee2b0647.chunk.js"
+  ]
+}
