@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/aasifsheikh-portfolio/static/css/main.394ec4b5.chunk.css",
-    "main.js": "/aasifsheikh-portfolio/static/js/main.ee2b0647.chunk.js",
-    "main.js.map": "/aasifsheikh-portfolio/static/js/main.ee2b0647.chunk.js.map",
+    "main.css": "/aasifsheikh-portfolio/static/css/main.5a76c920.chunk.css",
+    "main.js": "/aasifsheikh-portfolio/static/js/main.483842e0.chunk.js",
+    "main.js.map": "/aasifsheikh-portfolio/static/js/main.483842e0.chunk.js.map",
     "runtime-main.js": "/aasifsheikh-portfolio/static/js/runtime-main.278ace01.js",
     "runtime-main.js.map": "/aasifsheikh-portfolio/static/js/runtime-main.278ace01.js.map",
     "static/css/2.ec02d681.chunk.css": "/aasifsheikh-portfolio/static/css/2.ec02d681.chunk.css",
@@ -10,16 +10,24 @@
     "static/js/2.5f69bdd9.chunk.js.map": "/aasifsheikh-portfolio/static/js/2.5f69bdd9.chunk.js.map",
     "index.html": "/aasifsheikh-portfolio/index.html",
     "static/css/2.ec02d681.chunk.css.map": "/aasifsheikh-portfolio/static/css/2.ec02d681.chunk.css.map",
-    "static/css/main.394ec4b5.chunk.css.map": "/aasifsheikh-portfolio/static/css/main.394ec4b5.chunk.css.map",
+    "static/css/main.5a76c920.chunk.css.map": "/aasifsheikh-portfolio/static/css/main.5a76c920.chunk.css.map",
     "static/js/2.5f69bdd9.chunk.js.LICENSE.txt": "/aasifsheikh-portfolio/static/js/2.5f69bdd9.chunk.js.LICENSE.txt",
     "static/media/Aasif.jpg.8b75f7a8.jpg": "/aasifsheikh-portfolio/static/media/Aasif.jpg.8b75f7a8.jpg",
-    "static/media/twitter.ff62ba9f.png": "/aasifsheikh-portfolio/static/media/twitter.ff62ba9f.png"
+    "static/media/amazon.87933345.jpg": "/aasifsheikh-portfolio/static/media/amazon.87933345.jpg",
+    "static/media/edge.fa9016b2.jpg": "/aasifsheikh-portfolio/static/media/edge.fa9016b2.jpg",
+    "static/media/github.4413f844.png": "/aasifsheikh-portfolio/static/media/github.4413f844.png",
+    "static/media/netflixa.2374ef48.jpg": "/aasifsheikh-portfolio/static/media/netflixa.2374ef48.jpg",
+    "static/media/news.aedef04b.jfif": "/aasifsheikh-portfolio/static/media/news.aedef04b.jfif",
+    "static/media/notes.3f00bd42.jpg": "/aasifsheikh-portfolio/static/media/notes.3f00bd42.jpg",
+    "static/media/shopping.c5cd5184.jpg": "/aasifsheikh-portfolio/static/media/shopping.c5cd5184.jpg",
+    "static/media/todo.4cc3272d.jpg": "/aasifsheikh-portfolio/static/media/todo.4cc3272d.jpg",
+    "static/media/twitter.1ffbac95.jpg": "/aasifsheikh-portfolio/static/media/twitter.1ffbac95.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.278ace01.js",
     "static/css/2.ec02d681.chunk.css",
     "static/js/2.5f69bdd9.chunk.js",
-    "static/css/main.394ec4b5.chunk.css",
-    "static/js/main.ee2b0647.chunk.js"
+    "static/css/main.5a76c920.chunk.css",
+    "static/js/main.483842e0.chunk.js"
   ]
 }
