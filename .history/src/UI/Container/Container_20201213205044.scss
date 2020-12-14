@@ -1,0 +1,16 @@
+.container {
+  max-width: 1230px;
+  margin: 0 auto;
+  // object-fit: contain;
+}
+
+// Mobile View
+
+@media (min-width: 369px)and(max-width: 768px) {
+  .container {
+    width: ;
+    // object-fit: contain;
+    // background: red;
+    // margin: 0 auto;
+  }
+}

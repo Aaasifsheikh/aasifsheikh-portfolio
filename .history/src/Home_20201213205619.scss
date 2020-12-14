@@ -1,0 +1,54 @@
+.home {
+  height: 100vh;
+  text-align: center;
+  background-color:  #1d2434;
+  color: #f4f4f4;
+
+  h1 {
+    font-size: 3rem;
+    padding-top: 40vh;
+  }
+
+  &-name {
+    color: #f50057;
+    background-color: linear-gradient(45deg, #fe6b8b 30%, #ff8e53 90%);
+  }
+
+  &-work-btn {
+    border: 2px solid #fff;
+    position: relative;
+    top: 2rem;
+    padding: 0.5rem 1rem;
+    font-size: 1.5rem;
+    transition: all 500ms;
+    cursor: pointer;
+
+    &:hover {
+      background-color: #43ceca;
+      border: 2px solid #43ceca;
+    }
+  }
+
+  a {
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    font-weight: 50;
+  }
+}
+
+p.home-desc {
+  // font-size: 3rem;
+  font-size: clamp(1rem, 5vw, 3rem);
+}
+
+// mobile view
+@media(max-width: 369px){
+  #home{
+    width: 220vw;
+    object-fit: contain;
+    background: red;
+
+    
+  }
+}

@@ -1,0 +1,85 @@
+// @import "/src/styles/utilities";
+.navbar {
+  padding: 1.7rem;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 2rem;
+  z-index: 2;
+  position: absolute;
+  top: 100vh;
+  left: 0;
+  width: 100%;
+  background-color:#16213e;
+  border-bottom: 3px solid cyan;
+
+  .logoflex {
+    flex: 1;
+    .logo {
+      font-weight: bolder;
+      font-size: 1.7rem;
+      cursor: pointer;
+      background: -webkit-linear-gradient(45deg, #fe6b8b 30%, #ff8e53 90%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+  }
+
+  .links {
+    flex: 1;
+    cursor: pointer;
+
+    a {
+      padding: 0 3rem;
+      color: #fff;
+      transition: all 250ms ease-in-out;
+      cursor: pointer;
+
+      &:hover {
+        color: #f50057;
+      }
+      &.active {
+        color: #f50057 !important;
+      }
+    }
+  }
+
+  &.sticky {
+    position: fixed;
+    top: 0;
+  }
+
+  &.fadeInDown {
+    animation: fadeInDown 1s ease-in-out;
+    animation-fill-mode: both;
+
+    @keyframes fadeInDown {
+      0% {
+        opacity: 0;
+        top: -100px;
+      }
+      100% {
+        opacity: 1;
+        top: 0px;
+      }
+    }
+  }
+}
+
+// mobile view
+@media  screen (max-width: 500px) {
+  .navbar {
+    width: 220vw;
+    object-fit: contain;
+    margin: 0 auto;
+    
+
+//   }
+//   .links{
+//     justify-content: space-between;
+//   }
+//   .logoflex{
+//     flex: 1;
+//     margin-right: 50px;
+//   }
+// }

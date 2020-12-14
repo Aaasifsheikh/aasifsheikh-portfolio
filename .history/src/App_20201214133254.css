@@ -1,0 +1,12 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+@media screen and (max-width: 500px){
+  .App{
+    width: 500px;
+    height: 640px;
+
+  }
+}

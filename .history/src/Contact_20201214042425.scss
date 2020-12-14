@@ -1,0 +1,25 @@
+.contact {
+  text-align: center;
+  padding-top: 5rem;
+  // margin-top: 3rem;
+  color: #fff;
+  // background-color: $dark-background;
+
+  form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 5rem;
+    color: #fff;
+}
+}
+
+// mobile view
+@media (max-width: 369px) {
+  #cont {
+    width: 220vw;
+    object-fit: contain;
+    
+  }
+}
